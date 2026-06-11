@@ -1,4 +1,4 @@
-![Preview](./img/preview.png)
+![Preview](./img/preview.jpg)
 
 # Three.js TSL
 
