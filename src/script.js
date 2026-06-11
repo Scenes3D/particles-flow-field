@@ -71,7 +71,7 @@ const renderer = new THREE.WebGPURenderer({
 })
 renderer.setSize(sizes.width, sizes.height)
 renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2))
-renderer.setClearColor('#29191f')
+renderer.setClearColor('#000000')
 
 /**
  * Cursor interaction
